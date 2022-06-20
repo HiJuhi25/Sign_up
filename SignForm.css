@@ -1,0 +1,25 @@
+.title {
+    font-style: italic;
+    border-radius: 20px;
+}
+
+.username {
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+.email {
+    font-weight: bold;
+}
+
+.password {
+    font-weight: bold;
+}
+
+.confirm-email {
+    font-weight: bold;
+}
+
+.confirm-pass {
+    font-weight: bold;
+}
